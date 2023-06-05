@@ -1,0 +1,29 @@
+---
+title:  "Resume"
+subtitle: "Personal Resume"
+author: "FengCheng"
+avatar: "img/authors/BitterOrange.png"
+image: "img/f.jpg"
+date:   2023-6-3 
+---
+
+### 教育背景
+***
+#### 安徽农业大学 - 数据科学与大数据技术 - 本科
++ GPA: 3.5/5.0
++ 平均成绩：87.9/100
++ 荣誉奖项：专业奖学金（2022）；优秀共青团员（2021）；
+
+### 科研经历
+***
++ **SCI** - ***Positive-Samples contrastive clustering in single cell RNA-seq data***
+
+### 竞赛证书
+***
++ 
++
+
+### 学生工作与社会实践
+***
+*
+*
